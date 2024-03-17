@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    background-color: green;
+    color: white;
+    height: 9rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.links{
+    background-color: black;
+    height: 2rem;
+
+}
+
+.links_algo{
+    padding-top: 0.3rem;
+}
+
+.links_algo a{
+color: white;
+text-decoration: none;
+padding: 1rem;
+padding-top: 0.5rem;
+}
+
+h2{
+    color: green;
+}
+.container{
+    display: flex; 
+    align-items: center;
+    justify-content: space-between;
+}
+.box{
+    margin: 1rem;
+    padding: 1rem;
+}
+.box h2{
+    margin: 1rem;
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(45, 7, 184);
+    background-color: gray;
+    height: 2.5rem;
+
+}
+.footer1{
+    margin-top: 8rem;
+}
